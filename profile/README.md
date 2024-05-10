@@ -16,7 +16,7 @@
 * Telemetry
   - LoraWan
   - WiFi integration (Optional).
-* Real Time Operating System
+* Real Time Operating System.
   - freeRTOS.
 
 
