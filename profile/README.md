@@ -18,5 +18,7 @@
   - WiFi integration (Optional).
 * Real Time Operating System.
   - freeRTOS.
+* Avionic System Block Diagram (UML).
+  - https://app.diagrams.net/#G1dHH42OgIVjlZwMessiz6g7rakdLTqJsr
 
 
