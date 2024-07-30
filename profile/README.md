@@ -1,5 +1,5 @@
 
-<h1 align="center"> Vertical Landing Rocket Avionics System Design and Control Algorithms </h1>
+<h1 align="center"> Vertical Landing Rocket Avionics System Design and Control Algorithms . </h1>
 
 # General Purpose
 
